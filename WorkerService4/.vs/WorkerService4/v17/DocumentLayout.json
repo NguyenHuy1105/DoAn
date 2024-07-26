@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\workerservice4\\get-infomaiton\\getstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|solutionrelative:workerservice4\\get-infomaiton\\getstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\workerservice4\\service\\historyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|solutionrelative:workerservice4\\service\\historyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|d:\\da\\20194298-nguyenduytuanhuy-20232\\workerservice4\\workerservice4\\service\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|solutionrelative:workerservice4\\service\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\workerservice4\\workerservice4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|solutionrelative:workerservice4\\workerservice4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\workerservice4\\service\\getmssv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|solutionrelative:workerservice4\\service\\getmssv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\workerservice4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|solutionrelative:workerservice4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\workerservice4\\model\\softwaremodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|solutionrelative:workerservice4\\model\\softwaremodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\workerservice4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|solutionrelative:workerservice4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\workerservice4\\service\\installfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|solutionrelative:workerservice4\\service\\installfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\workerservice4\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|solutionrelative:workerservice4\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\workerservice4\\model\\monitorsessiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|solutionrelative:workerservice4\\model\\monitorsessiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\workerservice4\\model\\fileresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|solutionrelative:workerservice4\\model\\fileresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\workerservice4\\model\\computermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|solutionrelative:workerservice4\\model\\computermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\workerservice4\\model\\commandoptionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|solutionrelative:workerservice4\\model\\commandoptionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\workerservice4\\model\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|solutionrelative:workerservice4\\model\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\workerservice4\\get-infomaiton\\check_download_software.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|solutionrelative:workerservice4\\get-infomaiton\\check_download_software.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\workerservice4\\service\\macaddressworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1ABE49-D46C-4F3F-9A3B-720A3881AEC8}|WorkerService4\\WorkerService4.csproj|solutionrelative:workerservice4\\service\\macaddressworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetMssv.cs",
+              "DocumentMoniker": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Service\\GetMssv.cs",
+              "RelativeDocumentMoniker": "WorkerService4\\Service\\GetMssv.cs",
+              "ToolTip": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Service\\GetMssv.cs",
+              "RelativeToolTip": "WorkerService4\\Service\\GetMssv.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:42:59.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Program.cs",
+              "RelativeDocumentMoniker": "WorkerService4\\Program.cs",
+              "ToolTip": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Program.cs",
+              "RelativeToolTip": "WorkerService4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:54:54.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetStudent.cs",
+              "DocumentMoniker": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Get-Infomaiton\\GetStudent.cs",
+              "RelativeDocumentMoniker": "WorkerService4\\Get-Infomaiton\\GetStudent.cs",
+              "ToolTip": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Get-Infomaiton\\GetStudent.cs",
+              "RelativeToolTip": "WorkerService4\\Get-Infomaiton\\GetStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:59:55.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Service\\FileService.cs",
+              "RelativeDocumentMoniker": "WorkerService4\\Service\\FileService.cs",
+              "ToolTip": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Service\\FileService.cs",
+              "RelativeToolTip": "WorkerService4\\Service\\FileService.cs",
+              "ViewState": "AQIAADwBAAAAAAAAAAAUwEgBAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T21:46:21.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HistoryService.cs",
+              "DocumentMoniker": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Service\\HistoryService.cs",
+              "RelativeDocumentMoniker": "WorkerService4\\Service\\HistoryService.cs",
+              "ToolTip": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Service\\HistoryService.cs",
+              "RelativeToolTip": "WorkerService4\\Service\\HistoryService.cs",
+              "ViewState": "AQIAAGABAAAAAAAAAAAkwFIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:52:50.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkerService4.csproj",
+              "DocumentMoniker": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\WorkerService4.csproj",
+              "RelativeDocumentMoniker": "WorkerService4\\WorkerService4.csproj",
+              "ToolTip": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\WorkerService4.csproj",
+              "RelativeToolTip": "WorkerService4\\WorkerService4.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T22:56:59.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MonitorSessionData.cs",
+              "DocumentMoniker": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Model\\MonitorSessionData.cs",
+              "RelativeDocumentMoniker": "WorkerService4\\Model\\MonitorSessionData.cs",
+              "ToolTip": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Model\\MonitorSessionData.cs",
+              "RelativeToolTip": "WorkerService4\\Model\\MonitorSessionData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:42:04.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SoftwareModel.cs",
+              "DocumentMoniker": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Model\\SoftwareModel.cs",
+              "RelativeDocumentMoniker": "WorkerService4\\Model\\SoftwareModel.cs",
+              "ToolTip": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Model\\SoftwareModel.cs",
+              "RelativeToolTip": "WorkerService4\\Model\\SoftwareModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvxIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:42:17.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InstallFileService.cs",
+              "DocumentMoniker": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Service\\InstallFileService.cs",
+              "RelativeDocumentMoniker": "WorkerService4\\Service\\InstallFileService.cs",
+              "ToolTip": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Service\\InstallFileService.cs",
+              "RelativeToolTip": "WorkerService4\\Service\\InstallFileService.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAAALwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:43:55.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Worker.cs",
+              "RelativeDocumentMoniker": "WorkerService4\\Worker.cs",
+              "ToolTip": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Worker.cs",
+              "RelativeToolTip": "WorkerService4\\Worker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:57:09.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ComputerModel.cs",
+              "DocumentMoniker": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Model\\ComputerModel.cs",
+              "RelativeDocumentMoniker": "WorkerService4\\Model\\ComputerModel.cs",
+              "ToolTip": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Model\\ComputerModel.cs",
+              "RelativeToolTip": "WorkerService4\\Model\\ComputerModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:42:00.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Check_download_software.cs",
+              "DocumentMoniker": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Get-Infomaiton\\Check_download_software.cs",
+              "RelativeDocumentMoniker": "WorkerService4\\Get-Infomaiton\\Check_download_software.cs",
+              "ToolTip": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Get-Infomaiton\\Check_download_software.cs",
+              "RelativeToolTip": "WorkerService4\\Get-Infomaiton\\Check_download_software.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:41:21.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileResponseModel.cs",
+              "DocumentMoniker": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Model\\FileResponseModel.cs",
+              "RelativeDocumentMoniker": "WorkerService4\\Model\\FileResponseModel.cs",
+              "ToolTip": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Model\\FileResponseModel.cs",
+              "RelativeToolTip": "WorkerService4\\Model\\FileResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T22:16:57.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommandOptionModel.cs",
+              "DocumentMoniker": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Model\\CommandOptionModel.cs",
+              "RelativeDocumentMoniker": "WorkerService4\\Model\\CommandOptionModel.cs",
+              "ToolTip": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Model\\CommandOptionModel.cs",
+              "RelativeToolTip": "WorkerService4\\Model\\CommandOptionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T21:56:49.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MACAddressWorker.cs",
+              "DocumentMoniker": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Service\\MACAddressWorker.cs",
+              "RelativeDocumentMoniker": "WorkerService4\\Service\\MACAddressWorker.cs",
+              "ToolTip": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Service\\MACAddressWorker.cs",
+              "RelativeToolTip": "WorkerService4\\Service\\MACAddressWorker.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAwCYAAACnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T08:31:23.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApiConfig.cs",
+              "DocumentMoniker": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Model\\ApiConfig.cs",
+              "RelativeDocumentMoniker": "WorkerService4\\Model\\ApiConfig.cs",
+              "ToolTip": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\Model\\ApiConfig.cs",
+              "RelativeToolTip": "WorkerService4\\Model\\ApiConfig.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwBUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T08:08:40.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\appsettings.json",
+              "RelativeDocumentMoniker": "WorkerService4\\appsettings.json",
+              "ToolTip": "D:\\da\\20194298-NguyenDuyTuanHuy-20232\\WorkerService4\\WorkerService4\\appsettings.json",
+              "RelativeToolTip": "WorkerService4\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-22T07:57:20.829Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

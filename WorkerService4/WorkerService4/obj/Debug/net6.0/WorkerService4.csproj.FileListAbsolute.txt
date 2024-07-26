@@ -1,0 +1,360 @@
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\appsettings.Development.json
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\appsettings.json
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.exe
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.deps.json
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.runtimeconfig.json
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.pdb
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Interop.UIAutomationClient.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Interop.UIAutomationCore.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\System.CodeDom.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Management.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Management.dll
+D:\DoAn\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.csproj.AssemblyReference.cache
+D:\DoAn\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAn\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.AssemblyInfoInputs.cache
+D:\DoAn\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.AssemblyInfo.cs
+D:\DoAn\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.csproj.CoreCompileInputs.cache
+D:\DoAn\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerSe.13F140C6.Up2Date
+D:\DoAn\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.dll
+D:\DoAn\WorkerService4\WorkerService4\obj\Debug\net6.0\refint\WorkerService4.dll
+D:\DoAn\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.pdb
+D:\DoAn\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.genruntimeconfig.cache
+D:\DoAn\WorkerService4\WorkerService4\obj\Debug\net6.0\ref\WorkerService4.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Reactive.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Reactive.Windows.Forms.dll
+D:\DoAn\WorkerService4\WorkerService4\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DoAn\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.csproj.ResolveComReference.cache
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.exe
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Interop.UIAutomationClient.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Management.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\appsettings.Development.json
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\appsettings.json
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Interop.UIAutomationCore.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\System.CodeDom.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Management.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Reactive.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Reactive.Windows.Forms.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\System.ServiceProcess.ServiceController.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+D:\da\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.csproj.AssemblyReference.cache
+D:\da\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.csproj.ResolveComReference.cache
+D:\da\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.GeneratedMSBuildEditorConfig.editorconfig
+D:\da\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.AssemblyInfoInputs.cache
+D:\da\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.AssemblyInfo.cs
+D:\da\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.csproj.CoreCompileInputs.cache
+D:\da\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerSe.13F140C6.Up2Date
+D:\da\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.dll
+D:\da\WorkerService4\WorkerService4\obj\Debug\net6.0\refint\WorkerService4.dll
+D:\da\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.pdb
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.deps.json
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.runtimeconfig.json
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.pdb
+D:\da\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.genruntimeconfig.cache
+D:\da\WorkerService4\WorkerService4\obj\Debug\net6.0\ref\WorkerService4.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Text.Json.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Threading.Channels.dll
+D:\da\WorkerService4\WorkerService4\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\appsettings.Development.json
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\appsettings.json
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.exe
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.deps.json
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.runtimeconfig.json
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.pdb
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Interop.UIAutomationClient.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Interop.UIAutomationCore.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\System.CodeDom.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Management.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Reactive.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Reactive.Windows.Forms.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\System.ServiceProcess.ServiceController.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Text.Json.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Threading.Channels.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Management.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.csproj.AssemblyReference.cache
+D:\da\Đồ Án\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.csproj.ResolveComReference.cache
+D:\da\Đồ Án\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.GeneratedMSBuildEditorConfig.editorconfig
+D:\da\Đồ Án\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.AssemblyInfoInputs.cache
+D:\da\Đồ Án\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.AssemblyInfo.cs
+D:\da\Đồ Án\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.csproj.CoreCompileInputs.cache
+D:\da\Đồ Án\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerSe.13F140C6.Up2Date
+D:\da\Đồ Án\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\obj\Debug\net6.0\refint\WorkerService4.dll
+D:\da\Đồ Án\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.pdb
+D:\da\Đồ Án\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.genruntimeconfig.cache
+D:\da\Đồ Án\WorkerService4\WorkerService4\obj\Debug\net6.0\ref\WorkerService4.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\appsettings.Development.json
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\appsettings.json
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.exe
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.deps.json
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.runtimeconfig.json
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.pdb
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Interop.UIAutomationClient.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Interop.UIAutomationCore.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\System.CodeDom.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Management.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Reactive.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Reactive.Windows.Forms.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\System.ServiceProcess.ServiceController.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Text.Json.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Threading.Channels.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Management.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.csproj.AssemblyReference.cache
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.csproj.ResolveComReference.cache
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.GeneratedMSBuildEditorConfig.editorconfig
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.AssemblyInfoInputs.cache
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.AssemblyInfo.cs
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.csproj.CoreCompileInputs.cache
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerSe.13F140C6.Up2Date
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\obj\Debug\net6.0\refint\WorkerService4.dll
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.pdb
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.genruntimeconfig.cache
+D:\da\20194298-NguyenDuyTuanHuy-2023.2\WorkerService4\WorkerService4\obj\Debug\net6.0\ref\WorkerService4.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.csproj.AssemblyReference.cache
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.csproj.ResolveComReference.cache
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.GeneratedMSBuildEditorConfig.editorconfig
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.AssemblyInfoInputs.cache
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.AssemblyInfo.cs
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.csproj.CoreCompileInputs.cache
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\obj\Debug\net6.0\refint\WorkerService4.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.pdb
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\appsettings.Development.json
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\appsettings.json
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.exe
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Interop.UIAutomationClient.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Interop.UIAutomationCore.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\System.CodeDom.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Management.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Reactive.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Reactive.Windows.Forms.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\System.ServiceProcess.ServiceController.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Text.Json.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\System.Threading.Channels.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Management.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerSe.13F140C6.Up2Date
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.deps.json
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.runtimeconfig.json
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\WorkerService4.pdb
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\obj\Debug\net6.0\WorkerService4.genruntimeconfig.cache
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\obj\Debug\net6.0\ref\WorkerService4.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.AspNet.SignalR.Core.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Owin.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Microsoft.Owin.Security.dll
+D:\da\20194298-NguyenDuyTuanHuy-20232\WorkerService4\WorkerService4\bin\Debug\net6.0\Owin.dll
